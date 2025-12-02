@@ -5,6 +5,7 @@ Run this and stare into the abyss of true sharding.
 When someone sends 1000+ transactions in a single 20-second block,
 they are no longer a wallet.
 
+
 They have become the network.
 
 This script doesn't give you alpha.
